@@ -1,0 +1,8 @@
+===== Grade Analysis Report ====
+Total Scores Processed: 11
+Invalid Lines Skipped: 1
+
+Average score: 77.54545454545455
+Highest score: 100
+Lowest score: 45
+
